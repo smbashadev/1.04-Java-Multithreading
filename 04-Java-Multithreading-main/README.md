@@ -824,7 +824,7 @@ Passionate about building high-quality educational repositories that simplify pr
 
 # 🌐 Connect With Me
 
-- GitHub: https://github.com/shaikbasha-dev
+- GitHub: https://github.com/smbashadev
 - LinkedIn: https://www.linkedin.com/in/shaikbasha-dev/
 - Email: smbashadev@gmail.com
 
